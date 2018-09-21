@@ -1,2 +1,2 @@
 # cloc_submodule_test
-trivial git repo used only to test git submodule handling by cloc
+Trivial git repo used to test cloc's git capabilities.
