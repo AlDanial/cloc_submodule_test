@@ -18,6 +18,10 @@ redistribution of this file, and for a DISCLAIMER OF ALL WARRANTIES.
 
 #include "Python.h"
 
+int i = 0;
+int j = 1;
+int k = 2;
+
 #ifdef __cplusplus
 extern "C" {
 #endif
